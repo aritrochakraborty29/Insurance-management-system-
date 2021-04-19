@@ -19,7 +19,7 @@ Assuming **XAMPP** is already installed in your local machine
 2. Go to http://localhost/phpmyadmin
 3. Create a database named **lims**
 3. import the **lims.sql** file provided in **database backup** folder
-4. Go to http://localhost if you see a login page, it is working
+4. Go to http://localhost/lims if you see a login page, it is working
 
 ## DEMO
 This project is hosted at https://lims.nafisulbari.com for you to play with.
